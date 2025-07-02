@@ -1,2 +1,4 @@
-# Custom_DevBoard
-How do you build your own Microcontroller Development Board?
+# Designing a custom Microcontroller-based Development Board from scratch
+[!image}(./public/author_sv.svg)
+
+Coming soon!
